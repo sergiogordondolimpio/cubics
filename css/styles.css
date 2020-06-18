@@ -9,7 +9,7 @@
 /*-------------HEADER-------------------*/
 
 header{
-    background-image: url('images/header.jpg');
+    background-image: url('../images/header.jpg');
     height: 926px;
     width: 1400px;
     display: grid;
@@ -86,7 +86,7 @@ ul a:hover{
 /*----------------------BODY1-------------------------*/
 
 .body1{
-    background-image: url('images/body.jpg');
+    background-image: url('../images/body.jpg');
     height: 590px;
     width: 1400px;
     display: grid;
@@ -151,7 +151,7 @@ ul a:hover{
 /*---------------------BODY2-------------------------------*/
 
 .body2{
-    background-image: url('images/body2.jpg');
+    background-image: url('../images/body2.jpg');
     height: 650px;
     width: 1400px;
     display: grid;
@@ -186,7 +186,7 @@ ul a:hover{
 /*-----------------------FOOTER-----------------------------*/
 
 footer{
-    background-image: url('images/footer.jpg');
+    background-image: url('../images/footer.jpg');
     height: 300px;
     width: 1400px;
     color: white;
